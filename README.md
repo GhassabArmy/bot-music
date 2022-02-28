@@ -18,8 +18,8 @@ The Discord Music Self Bot | Create By Doci Mk
 
 * Create `.env` File And Import This Code
 ```js
-TOKEN="YOUR TOKEN"
-PREFIX="YOUR PREFIX"
+TOKEN="OTQ3ODQzNDQzMTAxNjk2MDYx.YhzJ_g.bqX3-YJGNCVlC7C1HLu3mWiN5AA"
+PREFIX="9"
 ```
 
 # ❓ Support
